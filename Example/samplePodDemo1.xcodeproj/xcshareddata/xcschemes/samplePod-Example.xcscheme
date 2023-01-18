@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-               BuildableName = "samplePod_Example.app"
+               BuildableName = "samplePodDemo1_Example.app"
                BlueprintName = "samplePodDemo1_Example"
                ReferencedContainer = "container:samplePodDemo1.xcodeproj">
             </BuildableReference>
@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
-               BuildableName = "samplePod_Tests.xctest"
+               BuildableName = "samplePodDemo1_Tests.xctest"
                BlueprintName = "samplePodDemo1_Tests"
                ReferencedContainer = "container:samplePodDemo1.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "samplePod_Example.app"
+            BuildableName = "samplePodDemo1_Example.app"
             BlueprintName = "samplePodDemo1_Example"
             ReferencedContainer = "container:samplePodDemo1.xcodeproj">
          </BuildableReference>
@@ -56,7 +56,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
-               BuildableName = "samplePod_Tests.xctest"
+               BuildableName = "samplePodDemo1_Tests.xctest"
                BlueprintName = "samplePodDemo1_Tests"
                ReferencedContainer = "container:samplePodDemo1.xcodeproj">
             </BuildableReference>
@@ -78,7 +78,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "samplePod_Example.app"
+            BuildableName = "samplePodDemo1_Example.app"
             BlueprintName = "samplePodDemo1_Example"
             ReferencedContainer = "container:samplePodDemo1.xcodeproj">
          </BuildableReference>
@@ -95,7 +95,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "samplePod_Example.app"
+            BuildableName = "samplePodDemo1_Example.app"
             BlueprintName = "samplePodDemo1_Example"
             ReferencedContainer = "container:samplePodDemo1.xcodeproj">
          </BuildableReference>
