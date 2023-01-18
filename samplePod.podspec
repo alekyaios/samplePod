@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   'This will add a done button on your textfiled and textview. Just import and turn on the accessory.'
                        DESC
 
-  s.homepage         = 'https://github.com/Alekya/samplePod'
+  s.homepage         = 'https://github.com/alekyaios/samplePod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Alekya' => 'alekhya@krify.com' }
-  s.source           = { :git => 'https://github.com/Alekya/samplePod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/alekyaios/samplePod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
