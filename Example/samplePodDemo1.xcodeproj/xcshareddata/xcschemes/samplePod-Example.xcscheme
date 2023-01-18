@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACCF1AFB9204008FA782"
                BuildableName = "samplePod_Example.app"
-               BlueprintName = "samplePod_Example"
-               ReferencedContainer = "container:samplePod.xcodeproj">
+               BlueprintName = "samplePodDemo1_Example"
+               ReferencedContainer = "container:samplePodDemo1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -30,8 +30,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
                BuildableName = "samplePod_Tests.xctest"
-               BlueprintName = "samplePod_Tests"
-               ReferencedContainer = "container:samplePod.xcodeproj">
+               BlueprintName = "samplePodDemo1_Tests"
+               ReferencedContainer = "container:samplePodDemo1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -40,8 +40,16 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "607FACCF1AFB9204008FA782"
+            BuildableName = "samplePod_Example.app"
+            BlueprintName = "samplePodDemo1_Example"
+            ReferencedContainer = "container:samplePodDemo1.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
@@ -49,28 +57,16 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
                BuildableName = "samplePod_Tests.xctest"
-               BlueprintName = "samplePod_Tests"
-               ReferencedContainer = "container:samplePod.xcodeproj">
+               BlueprintName = "samplePodDemo1_Tests"
+               ReferencedContainer = "container:samplePodDemo1.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "samplePod_Example.app"
-            BlueprintName = "samplePod_Example"
-            ReferencedContainer = "container:samplePod.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -83,12 +79,10 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
             BuildableName = "samplePod_Example.app"
-            BlueprintName = "samplePod_Example"
-            ReferencedContainer = "container:samplePod.xcodeproj">
+            BlueprintName = "samplePodDemo1_Example"
+            ReferencedContainer = "container:samplePodDemo1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -102,8 +96,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
             BuildableName = "samplePod_Example.app"
-            BlueprintName = "samplePod_Example"
-            ReferencedContainer = "container:samplePod.xcodeproj">
+            BlueprintName = "samplePodDemo1_Example"
+            ReferencedContainer = "container:samplePodDemo1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
